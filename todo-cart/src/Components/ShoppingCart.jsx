@@ -20,7 +20,9 @@ function ShoppingCart() {
   };
 
   return (
-    <div>
+    <div style={{
+      background: 'url(https://media.istockphoto.com/id/911633218/vector/abstract-geometric-medical-cross-shape-medicine-and-science-concept-background.jpg?s=612x612&w=0&k=20&c=eYz8qm5xa5wbWCWKgjOpTamavekYv8XqPTA0MC4tHGA=) center/cover',
+    }}>
       <h2>Shopping Cart</h2>
       <input
         type="text"
